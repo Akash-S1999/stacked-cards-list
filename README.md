@@ -12,5 +12,5 @@
 
 
 # Here is how it will look 😛
-![demo](./public/demo.png)
+![demo](public/demo.png)
 
